@@ -1,0 +1,34 @@
+F:\PSI\Projects\QR CODE GEN\bin\Debug\QR CODE GEN.exe.config
+F:\PSI\Projects\QR CODE GEN\bin\Debug\QR CODE GEN.exe
+F:\PSI\Projects\QR CODE GEN\bin\Debug\QR CODE GEN.pdb
+F:\PSI\Projects\QR CODE GEN\bin\Debug\QRCoder.dll
+F:\PSI\Projects\QR CODE GEN\obj\Debug\QR CODE GEN.csproj.AssemblyReference.cache
+F:\PSI\Projects\QR CODE GEN\obj\Debug\QR_CODE_GEN.Form1.resources
+F:\PSI\Projects\QR CODE GEN\obj\Debug\QR_CODE_GEN.Properties.Resources.resources
+F:\PSI\Projects\QR CODE GEN\obj\Debug\QR CODE GEN.csproj.GenerateResource.cache
+F:\PSI\Projects\QR CODE GEN\obj\Debug\QR CODE GEN.csproj.CoreCompileInputs.cache
+F:\PSI\Projects\QR CODE GEN\obj\Debug\QR CODE GEN.exe
+F:\PSI\Projects\QR CODE GEN\obj\Debug\QR CODE GEN.pdb
+D:\PSI\Projects\QR CODE GEN\bin\Debug\QR CODE GEN.exe.config
+D:\PSI\Projects\QR CODE GEN\bin\Debug\QR CODE GEN.exe
+D:\PSI\Projects\QR CODE GEN\bin\Debug\QR CODE GEN.pdb
+D:\PSI\Projects\QR CODE GEN\bin\Debug\QRCoder.dll
+D:\PSI\Projects\QR CODE GEN\obj\Debug\QR CODE GEN.csprojResolveAssemblyReference.cache
+D:\PSI\Projects\QR CODE GEN\obj\Debug\QR_CODE_GEN.Form1.resources
+D:\PSI\Projects\QR CODE GEN\obj\Debug\QR_CODE_GEN.Properties.Resources.resources
+D:\PSI\Projects\QR CODE GEN\obj\Debug\QR CODE GEN.csproj.GenerateResource.Cache
+D:\PSI\Projects\QR CODE GEN\obj\Debug\QR CODE GEN.exe
+D:\PSI\Projects\QR CODE GEN\obj\Debug\QR CODE GEN.pdb
+D:\VS-Projects\Projects\QR CODE GEN\bin\Debug\QR CODE GEN.exe.config
+D:\VS-Projects\Projects\QR CODE GEN\bin\Debug\QR CODE GEN.exe
+D:\VS-Projects\Projects\QR CODE GEN\bin\Debug\QR CODE GEN.pdb
+D:\VS-Projects\Projects\QR CODE GEN\bin\Debug\QRCoder.dll
+D:\VS-Projects\Projects\QR CODE GEN\obj\Debug\QR CODE GEN.csproj.AssemblyReference.cache
+D:\VS-Projects\Projects\QR CODE GEN\obj\Debug\QR CODE GEN.csproj.SuggestedBindingRedirects.cache
+D:\VS-Projects\Projects\QR CODE GEN\obj\Debug\QR_CODE_GEN.Form1.resources
+D:\VS-Projects\Projects\QR CODE GEN\obj\Debug\QR_CODE_GEN.Properties.Resources.resources
+D:\VS-Projects\Projects\QR CODE GEN\obj\Debug\QR CODE GEN.csproj.GenerateResource.cache
+D:\VS-Projects\Projects\QR CODE GEN\obj\Debug\QR CODE GEN.csproj.CoreCompileInputs.cache
+D:\VS-Projects\Projects\QR CODE GEN\obj\Debug\QR CODE GEN.csproj.CopyComplete
+D:\VS-Projects\Projects\QR CODE GEN\obj\Debug\QR CODE GEN.exe
+D:\VS-Projects\Projects\QR CODE GEN\obj\Debug\QR CODE GEN.pdb
